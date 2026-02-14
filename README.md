@@ -1,5 +1,3 @@
-Markdown
-
 # ❌ Statera Tris (Tic Tac Toe) - Vue.js Edition ⭕
 
 Benvenuti nel progetto **Statera Tris**, un'applicazione web moderna e interattiva sviluppata con **Vue 3**. Questo progetto fa parte dell'ecosistema *Statera*, portando l'estetica pulita e professionale del software nutrizionale in un classico intramontabile del gaming.
